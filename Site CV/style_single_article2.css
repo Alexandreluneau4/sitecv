@@ -1,0 +1,129 @@
+.style-puce{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.style-puce2{
+    padding-bottom: 20px;
+    margin: 0;
+    list-style-type: none;
+    margin-left: 1000px;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+li{
+    margin-right:7%;
+    float: left;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    font-weight: bold;
+    color: white;
+}
+
+.gauche{
+    display: inline;
+}
+
+.up{
+    width: 20px;
+    height: 20px;
+}
+
+body{
+    background: #8f8f8f;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.logo1{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.logomenu{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #363636;
+}
+
+.carreblanc{
+    width: 500px;
+    height: 500px;
+}
+
+.buttonadmin{
+    margin: 20px;
+    margin-left: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+.input2{
+    width: 1000px;
+}
+
+textarea{
+    width: 1500px;
+}
+
+.fin{
+    text-align: center;
+}
+
+footer{
+    border: 1px solid rgb(0, 0, 0);
+    background: #363636;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
